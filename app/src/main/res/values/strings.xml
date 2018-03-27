@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MemeGen Prime</string>
+    <string name="textTop">top</string>
+    <string name="textBottom">bottom</string>
+    <string name="textGalleryButton">Gallery</string>
+    <string name="textShareButton">Share</string>
 </resources>
